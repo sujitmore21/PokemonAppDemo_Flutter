@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:pokemonapp/pokemon.dart';
-import 'pokedatail.dart';
+import 'pokedetail.dart';
 import 'dart:convert';
 
 
